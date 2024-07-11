@@ -48,6 +48,10 @@
 - Convolution Neural Networks (Basic)
 - Problem Solving Skills
 
+- # 📫 How to Reach Me
+
+- **Email**: dhimanritika1212@gmail.com
+
 
 
 
