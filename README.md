@@ -2,7 +2,7 @@
 
 # Welcome to My Profile
 
-### Hi 👋, I'm Java Programmer!, a Backend developer and a tech enthusiast! 🫣
+# Hi 👋, I'm Java Programmer!, a Backend developer and a tech enthusiast! 🫣
 
 **🔭 I’m currently working on Spring Boot - Microservices Projects**
 
